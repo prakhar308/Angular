@@ -10,7 +10,7 @@ These are:
 - [Data Binding](#Data-Binding)
 - [Structural Directives](#Structural-Directives)
 - [Custom Pipes](#Custom-Pipes)
-- [Nested Components](Nested-Components)
+- [Nested Components](#Nested-Components)
 - [Service and Dependency Injection](#Service-and-Dependency-Injection)
 
 
